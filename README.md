@@ -86,7 +86,7 @@ RegisterNumber:  212222110016
 ![RTV VIEW EXP1](https://github.com/kancharlaNarmadha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559316/e6e9b4ff-049a-4266-bf7b-dec8a00b9530)
 
 
-# Logic symbol & Truthtable:
+# Truthtable:
 
 ![EXEL EXP1](https://github.com/kancharlaNarmadha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559316/a9ac28dd-da20-48f6-9293-6ebfbb418f85)
 
