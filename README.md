@@ -1,4 +1,7 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# NAME: KANCHARLA NARMADHA
+# REGISTER NUMBER: 212222110016
+
+# Study of basic digital IC s and verification of truth tables for different logic gates realization
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -78,18 +81,20 @@ Developed by: KANCHARLA NARMADHA
 
 RegisterNumber:  212222110016
 
-##Logic symbol & Truthtable:
-
-![EXEL EXP1](https://github.com/kancharlaNarmadha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559316/a9ac28dd-da20-48f6-9293-6ebfbb418f85)
-
-
-
-##RTL realization:
+# RTL realization:
 
 ![RTV VIEW EXP1](https://github.com/kancharlaNarmadha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559316/e6e9b4ff-049a-4266-bf7b-dec8a00b9530)
 
 
-##Output:
+# Logic symbol & Truthtable:
+
+![EXEL EXP1](https://github.com/kancharlaNarmadha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559316/a9ac28dd-da20-48f6-9293-6ebfbb418f85)
+
+
+# Output:
+
+# WAVEFORM:
+
 ![OUT PUT OF EXP1](https://github.com/kancharlaNarmadha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119559316/ac3e80de-a06f-4cca-adaf-8c476f330a91)
 
 
